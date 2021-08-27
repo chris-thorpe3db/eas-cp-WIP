@@ -1,0 +1,16 @@
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.exe
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.deps.json
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.runtimeconfig.json
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.runtimeconfig.dev.json
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.dll
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\ref\EAS control panel.dll
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\bin\Debug\net5.0\EAS control panel.pdb
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.csproj.AssemblyReference.cache
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.AssemblyInfoInputs.cache
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.AssemblyInfo.cs
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.csproj.CoreCompileInputs.cache
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.dll
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\ref\EAS control panel.dll
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.pdb
+C:\Users\ctech9\Documents\dotnet projects\EAS control panel\obj\Debug\net5.0\EAS control panel.genruntimeconfig.cache
