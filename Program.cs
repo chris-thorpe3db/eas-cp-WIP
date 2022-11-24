@@ -1,16 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace EAS_Control_Panel
+namespace EASControlPanel
 {
-    class Program
+    public class Program
     {
         static readonly HttpClient client = new HttpClient();
         public static string MFAKeyPath = $@"{Environment.GetEnvironmentVariable("appdata")}\EPC\_2fa";
